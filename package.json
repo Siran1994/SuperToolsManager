@@ -1,14 +1,13 @@
 {
-"name": "com.tools.supertoolsmanager",
-"displayName": "SuperToolsManager",
-"description": "My Unity Tools Manager!",
-"version": "1.0.0",
-"unity": "2018.3",
-"license":"Siran1994",
-"author":
-{
-"name":"漠白",
-"url":"https://github.com/Siran1994/SuperToolsManager"
-}
-
+	"name": "com.tools.supertoolsmanager",
+	"displayName": "SuperToolsManager",
+	"description": "My Unity Tools Manager!",
+	"version": "1.0.0",
+	"unity": "2018.3",
+	"license":"Siran1994",
+	"author":
+	{
+		"name":"漠白",
+		"url":"https://github.com/Siran1994/SuperToolsManager"
+	}
 }
